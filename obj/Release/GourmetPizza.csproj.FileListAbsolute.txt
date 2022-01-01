@@ -1,0 +1,2 @@
+/Volumes/My Files/PC/Subjects/Web system development/GourmetPizza/GourmetPizza/obj/Release/GourmetPizza.csproj.AssemblyReference.cache
+/Volumes/My Files/PC/Subjects/Web system development/GourmetPizza/GourmetPizza/obj/Release/GourmetPizza.csproj.CoreCompileInputs.cache
